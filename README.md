@@ -1,5 +1,10 @@
 ### Hi there 👋
+Nama : Syifa Arrohmah A
+Kelas : X-4
+Hobi : Membaca dan Menulis
+tidak terlalu mengerti tentang TIK tapi sedikit mengerti tentang menulis cerpen/cerita, membuat github karena pelajaran informatika 
 
+udah sii itu aja
 <!--
 **kumasyifa/kumasyifa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
