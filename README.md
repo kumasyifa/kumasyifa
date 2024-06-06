@@ -1,7 +1,10 @@
 ### Hi there 👋
 Nama : Syifa Arrohmah A
+
 Kelas : X-4
+
 Hobi : Membaca dan Menulis
+
 tidak terlalu mengerti tentang TIK tapi sedikit mengerti tentang menulis cerpen/cerita, membuat github karena pelajaran informatika 
 
 udah sii itu aja
